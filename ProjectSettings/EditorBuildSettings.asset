@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/StartMenu.unity
+    guid: 8cb576e1c7e62cd479172dface02e89e
+  - enabled: 1
+    path: Assets/AR/plataform-lv.unity
+    guid: 2fdd3af062dd399429d34febb39f021d
+  - enabled: 0
+    path: Assets/Scenes/level-factory-v3.unity
+    guid: 07085d3004429d34a978100869177531
+  - enabled: 0
+    path: Assets/Scenes/Factory-OutSide.unity
+    guid: 34bd006b2aabc4a418d3e7e3a0418810
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/testzone.unity
+    guid: 5260eb3b3e4727244adae4e27c2c42f3
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
