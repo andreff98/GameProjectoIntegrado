@@ -1,4 +1,4 @@
-# GameProjectoIntegrado
+# Hygme
 
 Introdução
 O “Hygme” é um jogo do tipo puzzle e aventura 3D, controlado por 2 jogadores. 
